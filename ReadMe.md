@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on learning ML.<br>Focusing on frameworks like NumPy, Pandas and SKL
+I'm currently working on learning ML.<br>Focusing on frameworks like NumPy, Pandas and SKL</br>and keeping it 100🌟
 
 
 ## 🌐 Socials:
